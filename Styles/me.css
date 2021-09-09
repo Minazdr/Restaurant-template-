@@ -1,0 +1,12 @@
+
+.img-footer{
+    width: 100%;
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+.contact-sec{
+    display: flex;
+    justify-content: space-evenly;
+}
